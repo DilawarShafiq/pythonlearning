@@ -12,3 +12,6 @@ print(Division)
 # Multiplication
 multiply = a*b
 print(multiply)
+
+message = "Aapi is great girl"
+print(message)
